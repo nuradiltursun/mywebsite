@@ -1,0 +1,13 @@
+{
+  "name": "dmeo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://nuradiltursun.github.io/mywebsite",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
